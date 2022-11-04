@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0TheGamer0
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning LÖVE2D
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on "null"
 - 📫 How to reach me "null"
 
