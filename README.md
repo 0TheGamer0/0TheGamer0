@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @0TheGamer0
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on "null"
-- 📫 How to reach me "null"
+- 🌱 I know a little bit of Python and I'm trying to learn C++
 
 <!---
 0TheGamer0/0TheGamer0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
